@@ -1,0 +1,11 @@
+{
+  "name": "ecommerce-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "vue": "^3.3.0",
+    "axios": "^1.6.0"
+  }
+}
